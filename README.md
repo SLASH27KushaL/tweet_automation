@@ -40,8 +40,8 @@ This is a fully automated Python bot that logs into Twitter, generates a casual 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/twitter-ai-bot.git
-cd twitter-ai-bot
+git clone https://github.com/SLASH27KushaL/tweet_automation
+cd tweet_automation
 ```
 
 ### 2. Install Dependencies
