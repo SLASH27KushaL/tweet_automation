@@ -1,6 +1,6 @@
     # 🤖 Twitter Tech Tweet Automation Bot
 
-This is a fully automated Python bot that logs into Twitter, generates a casual tech-related tweet using Google's **Gemini AI**, and posts it using **Selenium** with an **undetected Chrome driver**. It mimics human behavior and handles Twitter's one-pass security flow intelligently.
+This is a fully automated Python bot that logs into Twitter, generates tweets belonging to various categories using Google's **Gemini AI**, and posts it using **Selenium** with an **undetected Chrome driver**. It mimics human behavior and handles Twitter's one-pass security flow intelligently.
 
 ---
 
